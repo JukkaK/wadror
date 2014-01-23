@@ -8,4 +8,9 @@ class Beer < ActiveRecord::Base
 
   end
 
+  def to_s
+    return name.to_s + " - " + brewery.name.to_s
+  end
+
+
 end
