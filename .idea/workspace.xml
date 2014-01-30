@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd4064ea-e71e-47db-849f-1401d9c139c6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/index.html.erb" afterPath="$PROJECT_DIR$/app/views/users/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-    </list>
+    <list default="true" id="bd4064ea-e71e-47db-849f-1401d9c139c6" name="Default" comment="" />
     <ignored path="ratebeer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +35,7 @@
       <file leaf-file-name="users_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="21" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.6857923" vertical-offset="192" max-vertical-offset="1350">
+            <state line="60" column="28" selection-start="1428" selection-end="1428" vertical-scroll-proportion="0.65847" vertical-offset="177" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -778,7 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="21" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.6857923" vertical-offset="192" max-vertical-offset="1350">
+        <state line="60" column="28" selection-start="1428" selection-end="1428" vertical-scroll-proportion="0.65847" vertical-offset="177" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
