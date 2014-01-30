@@ -12,7 +12,9 @@ Ratebeer::Application.routes.draw do
   resources :sessions, only: [:new, :create]
 
   get 'signin', to: 'sessions#new'
-  delete 'signout', to: 'sessions#destroy'
+  #TODO: jostain syystä selain yrittää löytää delete HTTP GET:illä
+  #delete 'signout', to: 'sessions#destroy'
+  get 'signout', to: 'sessions#destroy'
 
   #get 'kaikki_bisset', to: 'beers#index'
 #  get 'ratings', to: 'ratings#index'
